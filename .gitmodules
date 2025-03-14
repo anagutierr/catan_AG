@@ -1,0 +1,3 @@
+[submodule "PyCatan"]
+	path = PyCatan
+	url = https://github.com/jaumejordan/PyCatan
