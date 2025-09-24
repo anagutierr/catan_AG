@@ -28,14 +28,7 @@ El objetivo principal es utilizar **métodos evolutivos** para mejorar las estra
 - **Evaluación del fitness**:  
   - Partidas simuladas con [PyCatan](https://github.com/jaumejordan/PyCatan) y los agentes proporcionados.  
   - Métricas basadas en puntos de victoria y resultados de la partida.  
-  - Consideración del orden de juego y robustez estadística (N partidas por evaluación).  
-
-### Experimentación
-- Probabilidades de mutación y cruce.  
-- Número de generaciones.  
-- Tamaño de la población.  
-- Número de partidas por evaluación de fitness.  
-- Paralelización y gestión de recursos en cloud.  
+  - Consideración del orden de juego y robustez estadística (N partidas por evaluación).   
 
 ---
 
